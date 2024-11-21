@@ -19,7 +19,7 @@ return new class extends Migration
             $table->enum('role', ['admin', 'ps']);
             $table->timestamps();
         });
-        
+
     }
 
     /**

@@ -46,7 +46,6 @@
                     <a href="{{ url('/') }}" class="btn btn-danger back-home-btn">Back to home</a>
                     <div class="illustration">
                         <img src="https://via.placeholder.com/150" alt="Illustration" width="150">
-                        <!-- Ganti dengan gambar ilustrasi sesuai keinginan -->
                     </div>
                 </div>
             </div>
